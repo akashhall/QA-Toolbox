@@ -1,9 +1,11 @@
 const qaToolbox = {
   init () {
+    debugger;
     /*
     Delay the start of the script to allow the page to load.  The Context Manager is not attainable unless there is a delay.
     */
     setTimeout(() => {
+      debugger;
       this.createElements();
       this.cacheDOM();
       this.buildElements();
@@ -16,6 +18,7 @@ const qaToolbox = {
   // ----------------------------------------
   // tier 1 functions
   createElements () {
+    debugger;
     qaToolbox.config = {
       $legendContainer: jQuery('<div>')
         .attr({
@@ -48,7 +51,7 @@ const qaToolbox = {
       $fontAw: jQuery('<link>')
         .attr({
           id: 'fontAwe',
-          // href: 'https://cdn.rawgit.com/cirept/QA_Toolbox/master/resources/font-awesome-4.7.0/css/font-awesome.css',
+          // href: 'https://cdn.rawgit.com/akashhall/QA-Toolbox/master/resources/font-awesome-4.7.0/css/font-awesome.css',
           href: 'https://use.fontawesome.com/releases/v5.0.13/css/all.css',
           rel: 'stylesheet',
           integrity: 'sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp',
@@ -57,7 +60,7 @@ const qaToolbox = {
       $jQueryUIcss: jQuery('<link>')
         .attr({
           id: 'jqueryUI',
-          href: 'https://cdn.rawgit.com/cirept/QA_Toolbox/master/resources/jquery-ui-1.12.1.custom/jquery-ui.min.css',
+          href: 'https://cdn.rawgit.com/akashhall/QA-Toolbox/master/resources/jquery-ui-1.12.1.custom/jquery-ui.min.css',
           rel: 'stylesheet',
         }),
       $toolStyles: jQuery('<link>')

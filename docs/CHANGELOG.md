@@ -181,7 +181,7 @@
 
 - Updated tool to work directly on the page vs. use the third party site.
   - **Directions** : The tool will highlight all miss-spelled words on the page in pink.
-  - **Information** : The dictionary is customizable, so we can add the custom words that we know are spelled correctly to it. Please visit [Github Issue Submission](https://github.com/cirept/QA_Toolbox/issues) to submit your words.
+  - **Information** : The dictionary is customizable, so we can add the custom words that we know are spelled correctly to it. Please visit [Github Issue Submission](https://github.com/akashhall/QA-Toolbox/issues) to submit your words.
   - **Words already added to dictionary**
     - All GMC vehicles
     - All Buick vehicles

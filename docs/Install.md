@@ -55,7 +55,7 @@ Once the Tampermonkey extension has been installed, please continue to the next 
 ### 1. Open the link below in a new tab.  Copy all of the code.
 
 Link to Latest Toolbar Code:<br>
-[Latest Code](https://raw.githubusercontent.com/cirept/QA_Toolbox/master/assets/js/meta.user.js)<br>
+[Latest Code](https://raw.githubusercontent.com/akashhall/QA-Toolbox/master/assets/js/meta.user.js)<br>
 *open in a new tab*
 
 <br>

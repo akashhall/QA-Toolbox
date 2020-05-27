@@ -44,7 +44,7 @@ const bannedWords = {
       $legendContent: {
         'spell-check banned': 'Banned by OEM',
       },
-      OEMBannedWordsFile: 'https://rawgit.com/cirept/QA_Toolbox/QuinnTest/resources/OEM_Banned_Words.json',
+      OEMBannedWordsFile: 'https://rawgit.com/akashhall/QA-Toolbox/QuinnTest/resources/OEM_Banned_Words.json',
       OEMap: new Map()
     };
   },

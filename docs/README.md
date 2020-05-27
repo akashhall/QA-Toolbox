@@ -1,4 +1,4 @@
-[![GitHub release](https://img.shields.io/github/release/cirept/QA_Toolbox.svg)](https://github.com/cirept/QA_Toolbox/releases)
+[![GitHub release](https://img.shields.io/github/release/akashhall/QA-Toolbox.svg)](https://github.com/akashhall/QA-Toolbox/releases)
 
 # Tool Descriptions<br>
 
